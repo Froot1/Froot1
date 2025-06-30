@@ -23,7 +23,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HBnB project
 ```
 
 <!--END_SECTION:waka-->
