@@ -2,7 +2,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i_fad)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.imlete.cn/?id=github.Froot1.visitor-badge&labelColor=f00)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.imlete.cn/?id=github.Froot1.visitor-badge&labelColor=555)
 
 
 I am a student at Holberton school full-stack software engineer. I love programming and traveling.
