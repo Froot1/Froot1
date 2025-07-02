@@ -22,7 +22,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```txt
+```python
 From: 29 June 2025 - To: 01 July 2025
 
 Total Time: 0 secs
