@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://https://github.com/Froot1/Froot1" target="_blank">Fahad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://github.com/Froot1/Froot1" target="_blank">Fahad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i_fad)
 
