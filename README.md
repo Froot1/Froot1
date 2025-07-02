@@ -21,13 +21,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
-
 
 📈 **My GitHub Stats:**
 
