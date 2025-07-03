@@ -9,7 +9,7 @@ I am a student at Holberton school full-stack software engineer. I love programm
 
 As a software engineering enthusiast, I enjoy using my passion to build solutions that can change the world. That’s why I love working on projects that make a meaningful difference.
 <p float="Right">
-<img align="right" alt="GIF" src="https://github.com/Froot1/Froot1/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Froot1/Froot1/blob/main/assets/coding.gif?raw=true" width="358" height="268" />
 </p></br>
   
 
