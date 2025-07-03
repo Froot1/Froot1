@@ -27,4 +27,6 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
+          SHOW_EDITORS: true  # optional
+          SHOW_OS: true # optional
           IGNORED_LANGUAGES: YAML # optional
