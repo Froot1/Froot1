@@ -21,7 +21,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 
 
 
-
+<p>
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
@@ -38,7 +38,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</p>
 📈 **My GitHub Stats:**
 
 <p>
