@@ -10,7 +10,7 @@ I am a student at Holberton school full-stack software engineer. I love programm
 As a software engineering enthusiast, I enjoy using my passion to build solutions that can change the world. That’s why I love working on projects that make a meaningful difference.
 <p float="Right">
 <img align="right" alt="GIF" src="https://github.com/Froot1/Froot1/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-</p><br/>
+</p></br>
   
 
 **Talking about Personal Stuffs:**
@@ -20,11 +20,13 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 - <img src="https://github.com/Froot1/Froot1/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m learning Data Structures and Algorithms;
   
 - <img src="https://github.com/Froot1/Froot1/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help ([Telegram](https://t.me/i_fad));
-- <img src="https://github.com/Froot1/Froot1/blob/main/assets/travel.gif?raw=true" width="21" />&nbsp;&nbsp; I love traveling <br/>
- <br/> 
- <br/>
+  
+- <img src="https://github.com/Froot1/Froot1/blob/main/assets/travel.gif?raw=true" width="21" />&nbsp;&nbsp; I love traveling;
 
-📊 **This Week I Spent My Time On:** </br>
+- 
+ 
+
+📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
 
