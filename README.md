@@ -22,7 +22,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 
 
 📊 **This Week I Spent My Time On:**
-<p>
+<br>
 <!--START_SECTION:waka-->
 
 ```python
@@ -38,7 +38,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-</p>
+</br>
 
 
 📈 **My GitHub Stats:**
