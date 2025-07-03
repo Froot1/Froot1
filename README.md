@@ -23,7 +23,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
   
 - <img src="https://github.com/Froot1/Froot1/blob/main/assets/travel.gif?raw=true" width="21" />&nbsp;&nbsp; I love traveling;
 
-- 
+  
  
 
 📊 **This Week I Spent My Time On:**
