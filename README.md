@@ -14,7 +14,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
   
 
 **Talking about Personal Stuffs:**
-<br>
+
 - <img src="https://github.com/Froot1/Froot1/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
   
 - <img src="https://github.com/Froot1/Froot1/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m learning Data Structures and Algorithms;
