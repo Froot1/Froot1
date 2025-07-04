@@ -28,7 +28,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
  
 
 📊 **This Week I Spent My Time On:**
-</br>
+
 <!--START_SECTION:waka-->
 
 ```python
