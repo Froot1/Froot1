@@ -32,18 +32,19 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 09 July 2025
+From: 29 June 2025 - To: 10 July 2025
 
-Total Time: 4 hrs 58 mins
+Total Time: 5 hrs 57 mins
 
-SQL          2 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.06 %
-Python       1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   39.40 %
-HTML         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-SSH Config   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+SQL          2 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.28 %
+Python       1 hr 57 mins    ████████▒░░░░░░░░░░░░░░░░   32.89 %
+HTML         57 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+JavaScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+SSH Config   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
