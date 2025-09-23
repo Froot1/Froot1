@@ -32,19 +32,19 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 20 September 2025
+From: 29 June 2025 - To: 22 September 2025
 
-Total Time: 67 hrs 59 mins
+Total Time: 79 hrs 48 mins
 
-TypeScript   43 hrs 16 mins  ████████████████░░░░░░░░░   63.63 %
-HTML         4 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Python       3 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-JavaScript   3 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-CSS          2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-SQL          2 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JSON         1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Markdown     1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Other        56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TypeScript   53 hrs 32 mins  ████████████████▓░░░░░░░░   67.07 %
+HTML         4 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Python       3 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Markdown     3 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+JavaScript   3 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+CSS          2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+SQL          2 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JSON         1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Other        1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
