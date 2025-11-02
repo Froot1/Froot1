@@ -32,7 +32,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 30 October 2025
+From: 29 June 2025 - To: 01 November 2025
 
 Total Time: 158 hrs 53 mins
 
