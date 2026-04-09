@@ -32,12 +32,12 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 06 April 2026
+From: 29 June 2025 - To: 07 April 2026
 
-Total Time: 170 hrs
+Total Time: 170 hrs 5 mins
 
-TypeScript   113 hrs 59 mins       ████████████████▓░░░░░░░░   67.05 %
-Python       20 hrs 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+TypeScript   113 hrs 59 mins       ████████████████▓░░░░░░░░   67.02 %
+Python       20 hrs 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
 HTML         5 hrs 47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 Markdown     5 hrs 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 CSS          5 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
