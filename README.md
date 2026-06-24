@@ -5,7 +5,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.imlete.cn/?id=github.Froot1.visitor-badge&labelColor=444)
 
 
-I am a full-stack software engineer and AI Builder. I love programming and traveling.
+I am a full-stack software engineer and AI Builder Also a Flight Dispatcher. I love programming and traveling.
 
 As a software engineering enthusiast, I enjoy using my passion to build solutions that can change the world. That’s why I love working on projects that make a meaningful difference.
 <p float="Right">
