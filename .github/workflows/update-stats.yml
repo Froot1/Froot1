@@ -13,20 +13,83 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@v4
+
+      - name: Update waka section
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: Froot1/Froot1
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ░▒▓█ # optional
-          CODE_LANG: python # optional
-          TIME_RANGE: all_time # last_7_days optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: true # optional
-          STOP_AT_OTHER: true # optional
-          SHOW_EDITORS: true  # optional
-          SHOW_OS: true # optional
-          IGNORED_LANGUAGES: YAML # optional
+        run: |
+          python3 <<'PY'
+          import base64
+          import json
+          import os
+          import re
+          import urllib.request
+
+          api_key = os.environ["WAKATIME_API_KEY"]
+          token = base64.b64encode(f"{api_key}:".encode("utf-8")).decode("utf-8")
+          req = urllib.request.Request(
+              "https://wakatime.com/api/v1/users/current/stats/all_time",
+              headers={"Authorization": f"Basic {token}"},
+          )
+          with urllib.request.urlopen(req, timeout=30) as resp:
+              payload = json.load(resp)
+
+          data = payload["data"]
+          total_time = data.get("human_readable_total_including_other_language") or data.get("human_readable_total", "0 secs")
+          lines = [
+              "```python",
+              f"From: {data.get('human_readable_range', 'N/A')}",
+              "",
+              f"Total Time: {total_time}",
+              "",
+          ]
+
+          languages = [
+              lang
+              for lang in data.get("languages", [])
+              if lang.get("name", "").lower() != "yaml"
+          ]
+          for lang in languages[:10]:
+              pct = float(lang.get("percent", 0))
+              bar_size = 28
+              filled = round((pct / 100) * bar_size)
+              bar = "█" * filled + "░" * (bar_size - filled)
+              lines.append(f"{lang.get('name', 'Unknown'):<12} {lang.get('text', '0 secs'):<20} {bar} {pct:05.2f} %")
+
+          lines.append("```")
+          block = "\n".join(lines)
+
+          with open("README.md", encoding="utf-8") as fh:
+              readme = fh.read()
+
+          pattern = re.compile(
+              r"<!--START_SECTION:waka-->.*?<!--END_SECTION:waka-->",
+              re.DOTALL,
+          )
+          updated, replacements = pattern.subn(
+              f"<!--START_SECTION:waka-->\n\n{block}\n\n<!--END_SECTION:waka-->",
+              readme,
+          )
+          if replacements == 0:
+              raise RuntimeError("waka section markers were not found in README.md")
+
+          if updated == readme:
+              print("README already up to date")
+          else:
+              with open("README.md", "w", encoding="utf-8") as fh:
+                  fh.write(updated)
+              print("README updated")
+          PY
+
+      - name: Commit and push
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated waka-readme graph with new metrics"
+          git push
