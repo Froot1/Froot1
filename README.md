@@ -53,9 +53,15 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<p 
-  [![Froot1's GitHub stats](https://github-stats-extended.vercel.app/api?username=Froot1)](https://github.com/stats-organization/github-stats-extended)
-  
+📈 **My GitHub Stats:**
+
+<p>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Froot1"
+      alt="Froot1's GitHub stats"
+    />
+  </a>
 </p>
 
 **[contributions animation]**
