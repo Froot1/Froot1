@@ -53,8 +53,6 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-📈 **My GitHub Stats:**
-
 <p>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
