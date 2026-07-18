@@ -54,8 +54,7 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 
 <p 
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froot1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Froot1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Froot1&layout=compact&theme=tokyonight)](https://github.com/Froot1)
+  [![Froot1's GitHub stats](https://github-stats-extended.vercel.app/api?username=Froot1)](https://github.com/stats-organization/github-stats-extended)
   
 </p>
 
