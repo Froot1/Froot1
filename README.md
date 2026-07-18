@@ -58,6 +58,7 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
     <img
       src="https://github-stats-extended.vercel.app/api?username=Froot1"
       alt="Froot1's GitHub stats"
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Froot1&repo=Froot1&langs_count=4" alt="Top Langs" />
     />
   </a>
 </p>
