@@ -71,8 +71,8 @@ jobs:
               f"<!--START_SECTION:waka-->\n\n{block}\n\n<!--END_SECTION:waka-->",
               readme,
           )
-          if replacements == 0:
-              raise RuntimeError("waka section markers were not found in README.md")
+if replacements != 1:
+    raise RuntimeError(f"expected exactly 1 waka section block in README.md, found {replacements}")
 
           if updated == readme:
               print("README already up to date")
