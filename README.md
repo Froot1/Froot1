@@ -61,8 +61,7 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
     />
   </a>
 </p>
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Froot1&langs_count=4)
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs%2F?username=Froot1&langs_count=5)
 
 **[contributions animation]**
 <picture>
