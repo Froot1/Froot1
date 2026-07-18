@@ -56,7 +56,7 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 <p>
   <img
   src="https://github-readme-stats.vercel.app/api?username=Froot1&show_icons=true&theme=react"
-  alt="Ivan's GitHub Stats"
+  alt="Froot1 GitHub Stats"
 />
   <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froot1&layout=compact&theme=react"
