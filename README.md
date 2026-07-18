@@ -57,14 +57,14 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
       src="https://github-stats-extended.vercel.app/api?username=Froot1\&rank_icon=github"
-      alt="Froot1's GitHub stats"
+      
     />
   </a>
 </p>
 
 **My GitHub languages:**
 
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Froot1&langs_count=20)
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Froot1&langs_count=15)
 
 **[contributions animation]**
 <picture>
