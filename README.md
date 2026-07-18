@@ -67,4 +67,6 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Froot1/Froot1/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+ 👤 **[Readme Card]**
+ 
 ![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Froot1\&repo=github-readme-stats\&show_owner=true)
