@@ -14,7 +14,7 @@ As a software engineering enthusiast, I enjoy using my passion to build solution
   
 
 
-**Talking about Personal Stuffs:**
+🛂 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Froot1/Froot1/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
   
@@ -51,16 +51,16 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 </br>
 
 
-📈 **My GitHub Stats:**
+🏆 **My GitHub Stats:**
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Froot1\&rank_icon=github)
 
 
-**My GitHub languages:**
+🌏 **My GitHub languages:**
 
   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Froot1&langs_count=15)
 
-**[contributions animation]**
+🤖 **[contributions animation]**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Froot1/Froot1/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Froot1/Froot1/output/github-contribution-grid-snake.svg"/>
