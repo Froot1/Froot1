@@ -53,17 +53,9 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Froot1&show_icons=true&theme=react&rank_icon=github&cache_seconds=86400"
-    alt="Froot1 GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froot1&layout=compact&theme=react&langs_count=8&cache_seconds=86400"
-    alt="Top Languages"
-    height="165"
-  />
+<p 
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Froot1&count_private=true&theme=tokyonight&showicons=true)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Froot1&langs_count=5&theme=tokyonight)]()
 </p>
 
 **[contributions animation]**
