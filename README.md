@@ -69,4 +69,4 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 
  👤 **[Readme Card]**
  
-![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Froot1&repo=https://github.com/Froot1/Froot1&show_owner=true)
+![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Froot1&repo=https://github.com/Froot1&show_owner=true)
