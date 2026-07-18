@@ -26,8 +26,10 @@ jobs:
           import re
           import urllib.request
 
-          api_key = os.environ["WAKATIME_API_KEY"]
-          token = base64.b64encode(f"{api_key}:".encode("utf-8")).decode("utf-8")
+api_key = os.environ.get("WAKATIME_API_KEY")
+if not api_key:
+    raise RuntimeError("WAKATIME_API_KEY is not set (configure repository secret WAKATIME_API_KEY)")
+token = base64.b64encode(f"{api_key}:".encode("utf-8")).decode("utf-8")
           req = urllib.request.Request(
               "https://wakatime.com/api/v1/users/current/stats/all_time",
               headers={"Authorization": f"Basic {token}"},
