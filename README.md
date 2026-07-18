@@ -54,13 +54,7 @@ Other        2 hrs 12 mins         ▒░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Froot1\&rank_icon=github)
-<p>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=Froot1\&rank_icon=github"
-    />
-  </a>
-</p>
+
 
 **My GitHub languages:**
 
