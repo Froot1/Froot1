@@ -26,10 +26,10 @@ jobs:
           import re
           import urllib.request
 
-api_key = os.environ.get("WAKATIME_API_KEY")
-if not api_key:
-    raise RuntimeError("WAKATIME_API_KEY is not set (configure repository secret WAKATIME_API_KEY)")
-token = base64.b64encode(f"{api_key}:".encode("utf-8")).decode("utf-8")
+          api_key = os.environ.get("WAKATIME_API_KEY")
+          if not api_key:
+              raise RuntimeError("WAKATIME_API_KEY is not set (configure repository secret WAKATIME_API_KEY)")
+          token = base64.b64encode(f"{api_key}:".encode("utf-8")).decode("utf-8")
           req = urllib.request.Request(
               "https://wakatime.com/api/v1/users/current/stats/all_time",
               headers={"Authorization": f"Basic {token}"},
@@ -73,8 +73,8 @@ token = base64.b64encode(f"{api_key}:".encode("utf-8")).decode("utf-8")
               f"<!--START_SECTION:waka-->\n\n{block}\n\n<!--END_SECTION:waka-->",
               readme,
           )
-if replacements != 1:
-    raise RuntimeError(f"expected exactly 1 waka section block in README.md, found {replacements}")
+          if replacements != 1:
+              raise RuntimeError(f"expected exactly 1 waka section block in README.md, found {replacements}")
 
           if updated == readme:
               print("README already up to date")
